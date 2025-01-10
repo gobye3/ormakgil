@@ -127,24 +127,6 @@
       "part": ["Project Manager", "Planner", "UI/UX Design", "Front-end Developer"]
     },
 		{
-      "id": 7,
-      "customer": "쿠콘",
-      "projectName": "군장병을 위한 디지털 마음건강 서비스",
-      "imgWeb": "/images/project/detail_08.png",
-      "thumbnail":"/images/project/thumb_08.png",
-      "open": "2024.11",
-      "type": "Responsive",
-      "hashTag": ["Responsive","jquery"],
-      "new": false, 
-      "link": "",
-      "desc": "군 복무 중인 장병들이 정신적, 감정적 어려움을 겪지 않도록 돕는 서비스입니다. 이 서비스는 군 장병들이 스트레스, 불안, 우울증과 같은 정신 건강 문제를 효과적으로 관리하고 예방할 수 있도록 돕는 다양한 기술적, 심리적 지원을 제공합니다.",
-      "review1Title": "Event",
-			"review1Desc": "직관적이고 접근성 높은 디자인으로 장병들이 관심을 갖고, 해당 서비스를 이용할 수 있도록 페이지 구성",
-			"review2Title": "참여자 보상",
-			"review2Desc": "단순 물질적 가치가 아닌 장병들의 심리적 안정을 돕거나 스트레스 완화에 도움이 되는 선물 지급",
-      "part": ["UI/UX Design", "Front-end Developer"]
-    },
-		{
       "id": 8,
       "customer": "SK telecom / BD",
       "projectName": "AI Curation SAM 2.0",
